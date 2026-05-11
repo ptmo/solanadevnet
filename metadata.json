@@ -1,6 +1,16 @@
 {
   "name": "Kasur Rusak",
   "symbol": "KASURUSAK",
-  "description": "Token made by Linux MX user",
-  "image": "https://raw.githubusercontent.com/ptmo/solanadevnet/refs/heads/main/robot.jpeg"
+  "description": "Token devnet testing",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/ptmo/solanadevnet/refs/heads/main/robot.jpeg",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ptmo/solanadevnet/refs/heads/main/robot.jpeg",
+        "type": "image/png"
+      }
+    ]
+  }
 }
